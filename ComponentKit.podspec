@@ -17,5 +17,5 @@ Pod::Spec.new do |s|
     'CLANG_CXX_LANGUAGE_STANDARD' => 'gnu++14',
     'CLANG_CXX_LIBRARY' => 'libc++',
   }
-  s.dependency 'Yoga', '~> 1.6.0'
+  # s.dependency 'Yoga', '~> 1.6.0'
 end
